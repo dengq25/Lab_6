@@ -255,13 +255,14 @@ ggplot(Whickham, aes(x = smoker, fill = outcome)) +
   theme_minimal()
 ```
 
-![](lab-06_files/figure-gfm/unnamed-chunk-13-1.png)<!-- --> This stacked
-bar chart shows the conditional proportions of survival outcomes (Alive
-vs Dead) within each smoking group. Overall, most women in both groups
-were still alive after 20 years. Surprisingly, the proportion of women
-who died is slightly higher among non-smokers than smokers.
-Specifically, about 32% of non-smokers are in the “Dead” category
-compared to about 24% of smokers.
+![](lab-06_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
+
+This stacked bar chart shows the conditional proportions of survival
+outcomes (Alive vs Dead) within each smoking group. Overall, most women
+in both groups were still alive after 20 years. Surprisingly, the
+proportion of women who died is slightly higher among non-smokers than
+smokers. Specifically, about 32% of non-smokers are in the “Dead”
+category compared to about 24% of smokers.
 
 6.  
 
