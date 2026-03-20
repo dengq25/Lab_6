@@ -116,7 +116,9 @@ ggplot(fish_top,
   ) +
   theme_minimal()
 ```
+
 ### Stretch Practice
+
 ```{r}
 data("Whickham")
 
@@ -129,7 +131,7 @@ library(performance)
 ```
 1. These data come from an observational study, not an experiment. The researchers did not assign people to be smokers or non-smokers. Instead, they simply recorded each woman’s existing smoking status at the baseline survey (1972–1974) and then followed up 20 years later to see whether she was alive or dead.
 
-2.The dataset contains 1314 observations. Each observation represents one woman who participated in the Whickham survey.
+2. The dataset contains 1314 observations. Each observation represents one woman who participated in the Whickham survey.
 
 3. There are 3 variables: outcome, smoker, and age
 
